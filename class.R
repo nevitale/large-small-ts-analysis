@@ -4,3 +4,4 @@ get_data <- function() {
 }
 
 data <- get_data()
+
